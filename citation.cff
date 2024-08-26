@@ -1,0 +1,52 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: AutomTest
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Daniel
+    email: daniel.david@ufba.br
+    affiliation: UFBA (Federality University of Bahia)
+    name-particle: David
+    family-names: Fernandes
+identifiers:
+  - type: doi
+    value: 10.1145/3439961.3440002
+    description: >-
+      The url to the paper that describe the results using
+      the tool
+  - type: url
+    value: 'https://github.com/danieldavidf/AutomTest'
+    description: 'The code repository '
+  - type: other
+    value: 'https://www.youtube.com/watch?v=xpNCwl_xpa0'
+    description: DEMO usage
+repository-code: 'https://github.com/danieldavidf/AutomTest'
+abstract: >-
+  Software Testing is a process which aims to find defects
+  during a software lifecycle. It involves time-consuming
+  activities and may be impossible to guarantee the
+  software’s perfect functioning due to the numerous cases
+  that must be processed accurately. The software must
+  ensure compliance with functional requirements, but most
+  current test case generation tools lack functionalities
+  based on functional requirements. Therefore, they often
+  point to defects that may not match software requirement
+  specifications or report cases considered defects
+  according to these specifications. In this scenario, to
+  support functional requirements testing processes by
+  generating requirement-based tests, 
+keywords:
+  - Test Driven
+  - 'Open-source tool '
+  - Test Automation
+  - Test case generator tools
+  - Automated testing
+license: GPL-2.0-or-later
+commit: 4184c94942439b4ed7d36d3f35a1ab6223c7cd74
+version: '1.0'
+date-released: '2022-05-20'
