@@ -10,9 +10,14 @@ type: software
 authors:
   - given-names: Daniel
     email: daniel.david@ufba.br
-    affiliation: UFBA (Federality University of Bahia)
+    affiliation: UFBA (Federal University of Bahia)
     name-particle: David
     family-names: Fernandes
+  - given-names: Rita
+    email: rita.suzaba@ufba.br
+    affiliation: UFBA (Federal University of Bahia)
+    name-particle: Suzana Pitangueira
+    family-names: Maciel
 identifiers:
   - type: doi
     value: 10.1145/3439961.3440002
